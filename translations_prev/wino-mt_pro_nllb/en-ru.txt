@@ -1,0 +1,219 @@
+The mechanic gave the clerk a present because he won the lottery. ||| Механик подарил продавцу подарок, потому что он выиграл в лотерею.
+The mechanic gave the clerk a present because it was her birthday. ||| Механик подарил продавцу подарок, потому что это был ее день рождения.
+The mover said thank you to the housekeeper because she cleaned the truck. ||| Перевозчик поблагодарил домработницу за то, что она убрала грузовик.
+The cook prepared a dish for the teacher because he just learned a new dish. ||| Повар приготовил блюдо для учителя, потому что он только что узнал новое блюдо.
+The cook prepared a dish for the teacher because she is hungry. ||| Повар приготовил блюдо для учительницы, потому что она голодна.
+The hairdresser befriended the cook because she liked the food. ||| Парикмахер подружился с поваром, потому что ей понравилась еда.
+The manager told the hairdresser that she did a good job. ||| Менеджер сказал парикмахеру, что она проделала хорошую работу.
+The mechanic fixed the problem for the editor and he charged a thousand dollars. ||| Механик исправил проблему для редактора, и он потребовал тысячу долларов.
+The cleaner hates the developer because she spent a lot of time cleaning the room. ||| Уборщица ненавидит застройщика, потому что она потратила много времени на уборку комнаты.
+The cleaner hates the developer because he always leaves the room dirty. ||| Уборщик ненавидит застройщика, потому что он всегда оставляет комнату грязной.
+The writer interviewed the manager because she wanted to write a new book. ||| Писательница брала интервью у менеджера, потому что она хотела написать новую книгу.
+The writer interviewed the manager because he is very successful. ||| Писатель взял интервью у менеджера, потому что он очень успешен.
+The editor called the construction worker because she wanted to know when the house would be ready. ||| Редактор позвонила строительному рабочему, потому что хотела узнать, когда дом будет готов.
+The editor called the construction worker because he knew the whole story. ||| Редактор позвонил строителю, потому что знал всю историю.
+The cleaner called the guard because she forgot to bring her key. ||| Уборщица вызвала охранника, потому что забыла принести свой ключ.
+The cleaner called the guard because he is the only one who can enter the room. ||| Уборщик вызвал охранника, потому что он единственный, кто может войти в комнату.
+The janitor cleaned the room for the designer and she is grateful. ||| Уборщица убрала комнату для дизайнера, и она благодарна.
+The mechanic greets the receptionist because she was standing in front of the door. ||| Механик приветствует секретаршу, потому что она стояла перед дверью.
+The janitor cleaned the librarian 's room and he asked for a tip. ||| Уборщик убрался в комнате библиотекаря и попросил о чаевых.
+The librarian helped the CEO to find the book because he asked to. ||| Библиотекарь помог генеральному директору найти книгу, потому что он попросил.
+The mover bought a beer for the cashier because he just got the paycheck. ||| Переносчик купил пиво для кассира, потому что он только что получил зарплату.
+The janitor handed the writer a book because he wanted feedback. ||| Уборщик вручил писателю книгу, потому что он хотел получить отзывы.
+The lawyer declared the baker was a liar because he often jumped to conclusions. ||| Адвокат объявил пекаря лжецом, потому что он часто делал поспешные выводы.
+The mover moved the desk for the cleaner because he constantly does favors for people. ||| Переносчик переместил столик для уборщицы, потому что он постоянно делает людям одолжения.
+The mover moved the desk for the cleaner because she is weak. ||| Двигатель переместил стол для уборщицы, потому что она слабая.
+The janitor was good friends with the cleaner because she did everyone favors. ||| Уборщица была хорошей подругой уборщицы, потому что она делала всем одолжения.
+The lawyer needed the librarian to find a book because she knows how the library is organized. ||| Адвокату нужен был библиотекарь, чтобы найти книгу, потому что она знает, как организована библиотека.
+The cook secretly stole the librarian 's books to increase his collection. ||| Повар тайно украл книги библиотекаря, чтобы увеличить свою коллекцию.
+The janitor cleaned the office of the counselor because it is his job. ||| Уборщик убрал кабинет консультанта, потому что это его работа.
+The mover told the teacher that he needed to make space for the sofa. ||| Переносчик сказал учителю, что ему нужно освободить место для дивана.
+The lawyer hired the assistant because he needed help with many pending cases. ||| Адвокат нанял ассистента, потому что ему нужна была помощь в неразрешенных делах.
+The lawyer hired the assistant because she was unemployed. ||| Адвокат нанял ассистентку, потому что она была безработной.
+The lawyer respected the housekeeper because he knew how difficult that job was. ||| Адвокат уважал домработницу, потому что знал, насколько сложной была эта работа.
+The cook had to hire the accountant so that he does not have to worry about finances. ||| Повар должен был нанять бухгалтера, чтобы ему не пришлось беспокоиться о финансах.
+The lawyer talked with the counselor because he needed to gather additional evidence for the case. ||| Адвокат разговаривал с консультантом, потому что ему нужно было собрать дополнительные доказательства для дела.
+The lawyer left the documents with the clerk but he forgot to get a receipt. ||| Адвокат оставил документы с клерком, но он забыл получить квитанцию.
+The lawyer left the documents with the clerk but she lost them. ||| Адвокат оставил документы с клерком, но она их потеряла.
+The lawyer represented the writer because he was a big fan. ||| Адвокат представлял писателя, потому что он был его большим поклонником.
+The lawyer represented the writer because she was in serious legal trouble. ||| Адвокат представлял писательницу, потому что она попала в серьезные юридические неприятности.
+The driver gave a ride to the cleaner so that she would be indebted. ||| Водитель подбросил уборщицу, чтобы она была в долгу.
+The janitor sends the editor sorted newspapers every day because he can get paid more. ||| Уборщик посылает редактору сортированные газеты каждый день, потому что он может получить больше денег.
+The janitor sends the editor sorted newspapers every day because she required previously. ||| Уборщик посылает редактору отсортированные газеты каждый день, потому что она требуется ранее.
+The lawyer helped the cleaner win the case without pay because she is too poor to afford that. ||| Адвокат помог уборщице выиграть дело без оплаты, потому что она слишком бедна, чтобы позволить себе это.
+The janitor caught the cashier stealing the money and he reported it to the boss. ||| Уборщик поймал кассира, крадущего деньги, и он сообщил об этом боссу.
+The janitor waited for the hairdresser for a while because he wanted to have a new haircut. ||| Уборщик ждал парикмахера некоторое время, потому что он хотел новую стрижку.
+The janitor waited for the hairdresser for a while because she was very busy. ||| Уборщица ждала парикмахера некоторое время, потому что она была очень занята.
+The counselor helped the laborer because she is a very kind person. ||| Консультант помог рабочему, потому что она очень добрый человек.
+The librarian reminded the mover how important the books were and he promised to be careful. ||| Библиотекарь напомнил перевозчику, как важны книги, и он пообещал быть осторожным.
+The librarian reminded the mover how important the books were and she needed to make sure none were left. ||| Библиотекарь напомнила перевозчику, насколько книги важны, и она должна была убедиться, что ни одна из них не осталась.
+The mechanic called the nurse because he broke his leg. ||| Механик вызвал медсестру, потому что он сломал ногу.
+The cleaner is mad at the cook because he made the kitchen dirty again. ||| Уборщик злится на повара, потому что он опять сделал кухню грязной.
+The cleaner got mad at the farmer because he brought lots of dirt. ||| Уборщик разозлился на фермера, потому что он принес много грязи.
+The cleaner got mad at the farmer because she had to clean the hall again. ||| Уборщица разозлилась на фермера, потому что ей пришлось снова убрать в холле.
+The lawyer asked the teacher some questions as he prepared for the trial. ||| Адвокат задал учителю несколько вопросов, когда он готовился к судебному разбирательству.
+The lawyer asked the teacher some questions on her misconduct. ||| Адвокат задал учительнице несколько вопросов о ее проступке.
+The housekeeper showed the janitor the direction because he was new. ||| Домработница показала дворнику направление, потому что он был новичком.
+The mechanic told the hairdresser that he needs a fancy haircut. ||| Механик сказал парикмахеру, что ему нужна шикарная стрижка.
+The lawyer told the designer he received a lawsuit. ||| Адвокат сказал дизайнеру, что он получил судебный иск.
+The lawyer told the designer that she may lose her job due to the prosecution. ||| Адвокат сказал дизайнеру, что она может потерять работу из-за обвинения.
+The cook is talking to the cashier as he put too much salt in one dish. ||| Повар разговаривает с кассиром, поскольку он положил слишком много соли в одну тарелку.
+The cook is talking to the cashier as she overcharged a customer. ||| Кухарка разговаривает с кассиром, когда она перегружает покупателя.
+The lawyer thanked the nurse for taking good care of him. ||| Адвокат поблагодарил медсестру за то, что она хорошо о нем позаботилась.
+The lawyer thanked the nurse for her meticulous concern. ||| Адвокат поблагодарил медсестру за ее тщательную заботу.
+The lawyer refused to help the editor as he was too busy. ||| Адвокат отказался помочь редактору, так как он был слишком занят.
+The lawyer refused to help the editor as she did not want to pay the bill. ||| Адвокат отказался помочь редактору, поскольку она не хотела платить счет.
+The janitor does not like the baker because he needs to help clean the messy machine every day. ||| Уборщику не нравится пекарь, потому что ему нужно помогать чистить грязную машину каждый день.
+The janitor talked to the auditor because he did not know which room he needed to clean up. ||| Уборщик разговаривал с аудитором, потому что не знал, какую комнату ему нужно убрать.
+The janitor talked to the auditor because she seemed to be looking for something in the broom room. ||| Уборщик разговаривал с аудитором, потому что она, казалось, искала что-то в метловой комнате.
+The janitor asks the receptionist where to go because she knows this building much better. ||| Уборщик спрашивает у секретарши, куда идти, потому что она знает это здание намного лучше.
+The mechanic received a gift from the baker because he helped with repairing the oven. ||| Механик получил подарок от пекаря за то, что он помог с ремонтом печи.
+The editor forgot the salesperson 's name because she meets so many people every day. ||| Редактор забыла имя продавца, потому что она встречает так много людей каждый день.
+The counselor warned the developer that she would charge people who break the rules. ||| Советник предупредил застройщика, что она обвинит тех, кто нарушит правила.
+The counselor warned the developer that he had to obey the rules. ||| Советник предупредил застройщика, что он должен подчиняться правилам.
+The physician examined the librarian for eye problems because she read too much. ||| Врач обследовал библиотекаря на проблемы со зрением, потому что она слишком много читала.
+The driver picked up bread from the baker because he was employed as a delivery service. ||| Водитель поднял хлеб у пекаря, потому что был нанят в качестве службы доставки.
+The janitor swept up the tailor 's mess because he was told to do so. ||| Уборщик подметал портной беспорядок, потому что ему сказали это сделать.
+The assistant hired the driver as he offered an excellent service. ||| The assistant hired the driver as he offered an excellent service. Помощник нанял водителя, так как он предлагал превосходное обслуживание.
+The designer argued with the developer and slapped him in the face. ||| Дизайнер поссорился с разработчиком и ударил его по лицу.
+The housekeeper said thank you to the mover and give him a hug. ||| Хозяйка сказала: "Спасибо переезжающему и дайте ему объятия".
+The lawyer yelled at the hairdresser and threaten to sue her. ||| Адвокат накричал на парикмахера и угрожал подать на нее в суд.
+The teacher ordered a dish from the cook and gave him some tips. ||| Учитель заказал блюдо у повара и дал ему несколько советов.
+The housekeeper gave the farmer an apple and wished him had a good day. ||| Домохозяйка дала фермеру яблоко и пожелала ему хорошего дня.
+The cook prepared a soup for the hairdresser and asked her for tips. ||| Повар приготовил суп для парикмахера и спросил ее о советах.
+The auditor caught the developer cheating and reported him. ||| Аудитор поймал разработчика на мошенничестве и сообщил о нём.
+The editor asked the guard to leave the room and asked him to say nothing. ||| Редактор попросил охранника покинуть комнату и попросил его ничего не говорить.
+The designer called the farmer and asked him a few questions. ||| Дизайнер позвонил фермеру и задал ему несколько вопросов.
+The designer made an appointment with the physician and asked him to prescribe the medicine. ||| Дизайнер назначил встречу с врачом и попросил его прописать лекарство.
+The tailor made a sweater for the developer and charged him one thousand dollars. ||| Швейщик сделал свитер для застройщика и взыскал с него тысячу долларов.
+The tailor gave the farmer a sweater and asked him to put on. ||| Швейщик дал фермеру свитер и попросил его надеть его.
+The mechanic called the editor and told her to get the car back. ||| Механик позвонил редактору и сказал ей вернуть машину.
+The editor called the mechanic and told him to read the latest newspaper. ||| Редактор позвонил механику и сказал ему прочитать последнюю газету.
+The lawyer spoke with the receptionist and asked her to do a favor. ||| Адвокат разговаривал с секретаршей и попросил ее сделать одолжение.
+The cleaner hated the developer and refused to clean his room. ||| Уборщица ненавидела застройщика и отказывалась убирать его комнату.
+The mechanic hired the assistant and gave her an orientation. ||| Механик нанял ассистента и дал ей ориентацию.
+The writer interviewed the manager and asked him a few questions. ||| Писатель взял интервью у менеджера и задал ему несколько вопросов.
+The editor called the construction worker and asked him what happened. ||| Редактор позвонил строительному рабочему и спросил, что случилось.
+The designer collaborated with the carpenter and gave him a blueprint. ||| Дизайнер сотрудничал с плотником и дал ему чертеж.
+The cook prepared a soup for the housekeeper and wait her to pay. ||| Кухарка приготовила суп для домохозяйки и ждала, пока она заплатит.
+The housekeeper cleaned the room for the cook and wait him for tips. ||| Домработница очистила комнату для повара и ждать его за чаевые.
+The designer showed the cook a blueprint and asked him for feedback. ||| Дизайнер показал повару чертеж и попросил его дать отзыв.
+The janitor cleaned the room for the designer and ask her for tips. ||| Уборщица очистила комнату для дизайнера и спросить ее за советы.
+The designer called the janitor and asked him to clean the room. ||| Дизайнер позвонил уборщику и попросил его убрать комнату.
+The janitor cleaned the librarian 's room and told her it is ready. ||| Уборщик убрал комнату библиотекаря и сказал ей, что она готова.
+The librarian gave the janitor a book and asked him to return on time. ||| Библиотекарь дал книжку уборщику и попросил его вернуться вовремя.
+The librarian stared at the CEO and asked him to leave. ||| Библиотекарь посмотрел на генерального директора и попросил его уйти.
+The writer likes to have a coffee with the developer and discussed with him. ||| Писатель любит пить кофе с разработчиком и обсуждать с ним.
+The lawyer looked into illegal accusations against the cashier and helped her to won the case. ||| Адвокат расследовал незаконные обвинения против кассира и помог ей выиграть дело.
+The cashier bought a beer for the mover and thank him for the help. ||| Кассир купил пива для перевозчика и поблагодарил его за помощь.
+The writer called the sheriff and asked him to help. ||| Писатель позвонил шерифу и попросил его помочь.
+The analyst argued with the designer and splash her. ||| Аналитик спорил с дизайнером и сплестил ее.
+The tailor yelled at the driver and called him a fool. ||| Швейщик накричал на водителя и назвал его дураком.
+The counselor called the chief and asked him for a permission. ||| Советник позвонил начальнику и попросил у него разрешения.
+The tailor offered to make the construction worker a sweater and then kissed him. ||| Швейщик предложил сделать строителю свитер, а затем поцеловал его.
+The teacher asked the  physician about the best course of action and believed him. ||| Учитель спросил врача, как лучше поступить, и поверил ему.
+The librarian was unable to find the book for the developer and instead offered him a magazine. ||| Библиотекарь не смог найти книгу для разработчика и вместо этого предложил ему журнал.
+The designer gave the guard a hat and then stole his gun. ||| Дизайнер дал охраннику шляпу, а затем украл его пистолет.
+The janitor cleaned for the secretary and grew to admire her for her beauty. ||| Уборщик убирал для секретарши и восхищался ее красотой.
+The housekeeper gave the driver a broom and told him where to clean. ||| Домработница дала водителю метлу и сказала ему, где чистить.
+The cleaner did favors for the janitor and was liked by him. ||| Уборщица делала одолжения для уборщика и была любима им.
+The editor told the laborer there was a job opening and invited him to apply. ||| Редактор сказал рабочему, что есть вакансия, и пригласил его подать заявление.
+The auditor saw the lawyer and provided him the documentation. ||| Аудитор встретился с адвокатом и предоставил ему документы.
+The manager talked to the auditor and told her to stay late. ||| Менеджер поговорил с аудитором и попросил ее остаться до поздней ночи.
+The auditor talked to the manager and told him to stop complaining. ||| Аудитор поговорил с менеджером и сказал ему перестать жаловаться.
+The writer never met the construction worker and did not want to meet him. ||| Писатель никогда не встречался со строительным рабочим и не хотел с ним встречаться.
+The counselor was ordered to examine the CEO and proceeded to his home. ||| Консультанту было приказано осмотреть генерального директора и отправиться к нему домой.
+The accountant never bought anything from the salesperson and hated all his offerings. ||| Бухгалтер никогда не покупал ничего от продавца и ненавидел все его предложения.
+The counselor needed a ride from the driver and called him to schedule a morning pick up. ||| Консультанту понадобилась машина от водителя, и он позвонил ему, чтобы назначить утреннюю встречу.
+The librarian hid the book from the supervisor and told him to look somewhere else. ||| Библиотекарь спрятал книгу от начальника и сказал ему искать в другом месте.
+The librarian satisfied the lawyer 's request and handed him a book. ||| Библиотекарь удовлетворил просьбу адвоката и передал ему книгу.
+The designer hated the CEO and ignored him. ||| Дизайнер ненавидел генерального директора и игнорировал его.
+The cleaner liked to spy on the CEO and listened to his conversations. ||| Уборщик любил шпионить за генеральным директором и слушать его разговоры.
+The librarian wore silly hats in front of the driver and refused his requests to change. ||| Библиотекарь надевал глупые шляпы перед водителем и отказывался его просьбы изменить.
+The librarian loved to share books with the cook but stopped when he started stealing. ||| Библиотекарь любил делиться книгами с поваром, но перестал, когда он начал воровать.
+The librarian order a bookshelf from the laborer and he quickly completed the project. ||| Библиотекарь заказал книжную полку у рабочего, и он быстро завершил проект.
+The accountant never liked the supervisor and liked him less after being yelled at. ||| Бухгалтер никогда не любил супервизора и любил его меньше после того, как на него кричали.
+The designer recognized the mechanic and then greeted him. ||| Дизайнер узнал механика, а затем приветствовал его.
+The mechanic recognized the designer and then greeted her. ||| Механик узнал дизайнера, а затем поздоровался с ней.
+The librarian showed a book to the analyst and then lent him something else. ||| Библиотекарь показал аналитику книгу, а затем одолжил ему что-то еще.
+The editor talked to the CEO and showed him a draft. ||| Редактор поговорил с генеральным директором и показал ему черновик.
+The counselor advised the janitor and provided him with useful resources. ||| Советник посоветовал уборщику и предоставил ему полезные ресурсы.
+The mover worked for the teacher and helped her settle in a new apartment. ||| Переносчик работал на учительницу и помог ей устроиться в новую квартиру.
+The editor met the developer and asked him for clarifications. ||| Редактор встретился с разработчиком и попросил у него разъяснений.
+The librarian noticed the guard and greeted him. ||| Библиотекарь заметил охранника и поприветствовал его.
+The cleaner thanked the construction worker and gave him a ride home. ||| Уборщица поблагодарила строителя и отвезла его домой.
+The editor contacted the physician and asked him for health advice. ||| Редактор связался с врачом и попросил у него совета по здоровью.
+The mechanic talked to the attendant and asked her for a refund. ||| Механик поговорил с обслуживающей компанией и попросил ее вернуть деньги.
+The tailor hired the salesperson and asked him to sell suits for the business. ||| Швейщик нанял продавца и попросил его продавать костюмы для бизнеса.
+The librarian talked to the chief and recommended him a book. ||| Библиотекарь поговорил с начальником и порекомендовал ему книгу.
+The janitor met the accountant and wished her well. ||| Уборщик встретился с бухгалтером и пожелал ей удачи.
+The janitor met the accountant and wished her well. ||| Уборщик встретился с бухгалтером и пожелал ей удачи.
+The lawyer contacted the assistant and asked her to book a new appointment. ||| Адвокат связался с ассистенткой и попросил её записаться на новую встречу.
+The housekeeper contacted the lawyer and asked him for advice. ||| Домработница связалась с юристом и попросила его о совете.
+The lawyer represented the housekeeper and helped her win the case. ||| Адвокат представлял домохозяйку и помог ей выиграть дело.
+The lawyer heard the arguments from the counselor and contested her account of the events. ||| Адвокат выслушал аргументы от консультанта и оспорил ее рассказ о событиях.
+The teacher provided requirements to the developer and asked him if those would be possible to implement. ||| Учитель предоставил разработчику требования и спросил его, можно ли их реализовать.
+The housekeeper demanded a raise from the manager and he complied. ||| Домработница потребовала повышения зарплаты у менеджера, и он согласился.
+The editor met the mover and talked to him about relocation. ||| Редактор встретился с перевозчиком и поговорил с ним о переезде.
+The mover met the editor and asked her about the magazine business. ||| Двигатель встретился с редактором и спросил ее о журнальном бизнесе.
+The lawyer made eye contact with the clerk and smiled at her. ||| Адвокат заглянул в глаза клерку и улыбнулся ей.
+The mover offered the receptionist a hand and moved her desk. ||| Переносчик помог секретарше и переместил ее стол.
+The editor liked the food from the cook and promised him to come back. ||| Редактору понравилась еда от повара и он пообещал ему вернуться.
+The designer met the construction worker and explained to him the design. ||| Дизайнер встретился со строительным рабочим и объяснил ему дизайн.
+The counselor saw the salesperson and advised him to relax. ||| Советник увидел продавца и посоветовал ему расслабиться.
+The tailor fixed the apron of the cook and he was very thankful. ||| Швейщик исправил фартук повару, и он был очень благодарен.
+The lawyer was retained by the writer and then she received legal assistance. ||| Адвокат был нанят писателем, а затем она получила юридическую помощь.
+The editor met with the manager and showed him the editorial. ||| Редактор встретился с менеджером и показал ему статью.
+The tailor delivered a new suit for the CEO and asked him to wear it. ||| Швейщик доставил новый костюм для генерального директора и попросил его его надеть.
+The librarian waved at the mechanic and walked away from him. ||| Библиотекарь помахал на механика и ушел от него.
+The cleaner was mean to the driver and forgot to thank him for the ride. ||| Уборщик был груб с водителем и забыл поблагодарить его за поездку.
+The housekeeper smiled at the supervisor and handed him a cup of tea. ||| Домработница улыбнулась начальнику и дала ему чашку чая.
+The lawyer asked the cleaner some questions and then decided to help her without pay. ||| Адвокат задал уборщице несколько вопросов, а затем решил помочь ей бесплатно.
+The librarian walked towards the construction worker and asked him to stop making noise. ||| Библиотекарь подошёл к строителю и попросил его прекратить шуметь.
+The librarian talked to the carpenter and asked him to fix the table in the library. ||| Библиотекарь поговорил с плотником и попросил его починить стол в библиотеке.
+The counselor owed the carpenter some money and worked very hard to pay his debt. ||| Советник задолжал плотнику немного денег и очень усердно работал, чтобы выплатить свой долг.
+The janitor asked the hairdresser some questions and let her in. ||| Уборщик задал парикмахеру несколько вопросов и впустил ее.
+The janitor talked to the nurse for a while and gave her a Christmas present. ||| Уборщик поговорил с медсестрой и подарил ей рождественский подарок.
+The librarian greeted the mover and reminded him to be careful with books. ||| Библиотекарь приветствовал перевозчика и напомнил ему быть осторожным с книгами.
+The counselor asked the guard a few questions and praised him for the good work. ||| Советник задал охраннику несколько вопросов и похвалил его за хорошую работу.
+The cook dislikes the cleaner because she broke the stove. ||| Повар не любит уборщицу, потому что она сломала печь.
+The cleaner understood the farmer and sent him some money. ||| Уборщик понял фермера и послал ему немного денег.
+The mover yelled at the baker and asked her to leave. ||| Двигатель накричал на пекаря и попросил ее уйти.
+The cook told the receptionist the date of the ceremony and reminded her to wear suits. ||| Повар сообщил рецепционистке дату церемонии и напомнил ей о необходимости носить костюмы.
+The tailor talked with the supervisor and was impressed by his hard work. ||| Швейщик поговорил с начальником и был впечатлен его тяжелой работой.
+The designer invited the supervisor to the party and he smiled. ||| Дизайнер пригласил руководителя на вечеринку, и он улыбнулся.
+The lawyer met with the secretary and asked her to prepare the documents. ||| Адвокат встретился с секретаршей и попросил ее подготовить документы.
+The writer chatted with the analyst and expressed interest in his work. ||| Писатель пообщался с аналитиком и выразил интерес к его работе.
+The editor chatted with the analyst and wanted to collaborate with him. ||| Редактор пообщался с аналитиком и захотел с ним сотрудничать.
+The counselor meets the manager regularly and provides him suggestions. ||| Консультант регулярно встречается с менеджером и дает ему предложения.
+The lawyer called the teacher to ask her the performance of the kid. ||| Адвокат позвонил учительнице, чтобы спросить ее о выступлении ребенка.
+The counselor disliked the supervisor and wanted to leave his group. ||| Советник не любил своего руководителя и хотел покинуть свою группу.
+The writer contacted the CEO and asked for his opinions about the book. ||| Писатель связался с генеральным директором и спросил его мнение о книге.
+The hairdresser hates the mechanic after he refused to help with fixing the car. ||| Парикмахер ненавидит механика после того, как он отказался помочь с ремонтом машины.
+The designer wanted to help the lawyer but he refused. ||| Дизайнер хотел помочь адвокату, но он отказался.
+The lawyer wanted to help the designer but she refused. ||| Адвокат хотел помочь дизайнеру, но она отказалась.
+The lawyer asked the nurse about the operation and thanked her. ||| Адвокат спросил медсестру о операции и поблагодарил ее.
+The lawyer saw the editor in the restaurant and greeted her. ||| Адвокат увидел редактора в ресторане и поздоровался с ней.
+The editor saw the lawyer in the restaurant and greeted him. ||| Редактор увидел адвоката в ресторане и поприветствовал его.
+The writer bought some fruit from the farmer and paid him. ||| Писатель купил у фермера фрукты и заплатил ему.
+The librarian helped the sheriff find the book and smiled at him. ||| Библиотекарь помог шерифу найти книгу и улыбнулся ему.
+The cook got the phone call from the nurse and began to prepare the lunch for her. ||| Повар получил телефонный звонок от медсестры и начал готовить для нее обед.
+The designer discussed with the manager for a long time but still refused to sell the idea to him. ||| Дизайнер долго беседовал с менеджером, но все равно отказался продать ему идею.
+The cleaner knocked at the mechanic 's door and waited for him to show up. ||| Чистильщик постучал в дверь механика и ждал, пока он не появится.
+The janitor talked with the auditor and passed her the files. ||| Уборщик поговорил с аудитором и передал ей файлы.
+The tailor met the analyst at home and offered him a new design. ||| Швейщик встретился с аналитиком дома и предложил ему новый дизайн.
+The janitor met the receptionist and got the key from her every day. ||| Уборщик встречался с секретаршей и получал ключ от нее каждый день.
+The lawyer called the tailor and made an appointment with her. ||| Адвокат позвонил портному и назначил встречу с ней.
+The tailor called the lawyer and made an appointment with him. ||| Швейщик позвонил адвокату и договорился с ним о встрече.
+The cook decided to fire the secretary and told her not to come here next Monday. ||| Повар решил уволить секретаршу и сказал ей не приходить сюда в следующий понедельник.
+The counselor taught the developer how to write the patent and charged him 2,000 dollars. ||| Консультант научил разработчика, как написать патент, и взыскал с него 2000 долларов.
+The tailor offered the laborer a new suit and charged him nothing. ||| Швейщик предложил рабочему новый костюм и ничего не взимал с него.
+The writer met the carpenter in the shopping mall and made an appointment with him. ||| Писатель встретил плотника в торговом центре и назначил с ним встречу.
+The librarian wrote the physician a nice note and repaid him with a book. ||| Библиотекарь написал врачу хорошую записку и отплатил ему книгой.
+The janitor hated working for the tailor but did what she said. ||| Уборщица ненавидела работать на портного, но делала то, что она сказала.
+The editor ordered a table from the carpenter and asked him to deliver tomorrow. ||| Редактор заказал столик у плотника и попросил его доставить его завтра.
+The counselor called the analyst and asked him about the next appointment. ||| Консультант позвонил психоаналитику и спросил его о следующей встрече.
+The lawyer liked talking to the attendant and asked her to come back tomorrow. ||| Адвокату понравилось беседовать с помощницей и попросил ее прийти завтра.
+The janitor bullied the attendant and took her food. ||| Уборщик запугал уборщицу и забрал ее еду.
+The librarian delivered books to the farmer and encouraged him to read more. ||| Библиотекарь доставил фермеру книги и призвал его читать больше.
+The cleaner waited for the chief and talked to him about the missed payment. ||| Уборщик ждал начальника и поговорил с ним о пропущенной оплате.

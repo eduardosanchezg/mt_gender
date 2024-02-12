@@ -1,4 +1,3 @@
-female	1	The developer argued with the designer because she did not like the design.	developer
 male	5	The developer argued with the designer because his idea cannot be implemented.	designer
 female	1	The mechanic gave the clerk a present because she won the lottery.	mechanic
 male	4	The mechanic gave the clerk a present because it was his birthday.	clerk

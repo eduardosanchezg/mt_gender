@@ -1,3 +1,4 @@
+#spacy_lookups_data==0.0.5
 docopt
 tqdm
 spacy==2.2.3
